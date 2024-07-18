@@ -56,12 +56,12 @@
 
 <div id="app"></div>
 
+<!--
 <script>
-    <!--
     <?= $viewModel->getAssetContents('ignition.js') ?>
-    -->
 </script>
-
+-->
+    
 <script>
     window.ignite(window.data);
 </script>
